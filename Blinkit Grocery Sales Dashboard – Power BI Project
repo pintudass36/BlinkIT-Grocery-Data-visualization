@@ -1,0 +1,32 @@
+# Blinkit Grocery Sales Dashboard – Power BI Project
+## 📊 Overview
+This Power BI project visualizes and analyzes grocery sales data from Blinkit. It helps in understanding sales performance, customer behavior, top product categories, and outlet-wise performance.
+## 🧾 Dataset
+- Source: Internal Blinkit Sales CSV file
+- Columns: Order Date, Product Category, Product Name, Outlet Type, Sales Amount, Quantity, Region, etc.
+## 📈 Key Visuals
+- Sales by Product Category 📦
+- Sales by Region 🗺️
+- Monthly Sales Trend 📅
+- Top 10 Best-Selling Products 🔝
+- Sales by Outlet Type 🏪
+- Quantity vs Revenue Scatter Plot ⚖️
+## 🛠️ Tools Used
+- Microsoft Power BI
+- Excel / CSV for Data Cleaning
+## ✅ Features
+- Data Cleaning: Removed nulls, formatted dates
+- Interactive slicers and filters
+- Titles for each visual for clarity
+- KPIs: Total Sales, Total Orders, Average Order Value
+## 📁 Files
+- `BlinkIT-Grocery-Data-visualization.pbix` – Power BI dashboard file
+## 📌 Use Cases
+- Sales team to track performance
+- Executives to make data-driven decisions
+- Interview portfolio or freelance showcase
+## 🙋‍♂️ Author
+- **Name**: Pintu Das
+- **LinkedIn**: [https://www.linkedin.com/in/pintu-das-b69330351]
+- **Portfolio**: [https://github.com/pintudass36/BlinkIT-Grocery-Data-visualization/new/main]
+## ⭐ Star this repo if you liked it!
